@@ -1,0 +1,7 @@
+{
+  "name": "appSGTA_JJ",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
